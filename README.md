@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Started my computational biology study in 2018 during my MSc study in China.<br>📚 I'm currently learning Machine Learning in Biomedical Science.<br>🎯 Goals: Help improve the health of underrepresented populations in genomic medicine through computational study including the use of efficient Machine Learning methods.<br>🎲 Fun fact: I love anything to do with diseases and cancer study.</p>
+<p align="left">✨ Started my computational biology journey in 2018 during my MSc in China.<br>📚 I'm currently learning Machine Learning in Biomedical Science.<br>🎯 Goals: Help improve the health of underrepresented populations in genomic medicine through computational study, including efficient Machine Learning methods.<br>🎲 Fun fact: I love anything to do with diseases and cancer study.</p>
 
 ###
 
